@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @RahmaHussain
-- 👀 I’m interested in data analysis and software development
-- 🌱 I’m currently learning APIs and SPECTRUM MANAGEMENT
+- I am a Computer engineer
+- I am Proficient in Programming and Software Developement
+- 👀 I’m interested in data analysis, system and Business Process Analysis.
+- 🌱 I’m currently learning how to secure APIs, Django and SPECTRUM MANAGEMENT
 - 💞️ I’m looking to collaborate on all of the things concerning with computer engineering
 - 📫 How to reach me (rahmahusseintz@gmail.com)
 
