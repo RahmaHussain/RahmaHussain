@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahmaHussain
+- 👋 السلام عليكم ورحمة الله وبركاته
 - I am a Computer engineer
 - I am Proficient in Programming and Software Developement
 - 👀 I’m interested in data analysis, system and Business Process Analysis.
